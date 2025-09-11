@@ -9,21 +9,21 @@
   <hr/>
 - 👨‍💻 All of my projects are available at [GitHub Profile --> https://github.com/fahimhossainmunna]
   (GitHub Profile --> https://github.com/fahimhossainmunna)
-
+<hr/>
 - 📝 I regularly write articles on [Frontend Development, React, Tailwind CSS and Problem Solving]
 (Frontend Development, React, Tailwind CSS and Problem Solving)
-<br/>
+<hr/>
 - 💬 Ask me about **HTML, CSS , Tailwind CSS , React.js Components , Responsive Web Design**
-
+<hr/>
 - 📫 How to reach me **✉️ Email: hossainfahim306@gmail.com
-- 🔗 LinkedIn: [ https://www.linkedin.com/in/fahim-hossain-munna-308014384/ ]
-- 🌐 Portfolio:**
-
+🔗 LinkedIn: [ https://www.linkedin.com/in/fahim-hossain-munna-308014384/ ]
+🌐 Portfolio:**
+<hr/>
 - 📄 Know about my experiences [https://www.canva.com/design/DAGyqKCTnIo/QgFqqpLrZAILigOKvSguww/edit?utm_content=DAGyqKCTnIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGyqKCTnIo/QgFqqpLrZAILigOKvSguww/edit?utm_content=DAGyqKCTnIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+<hr/>
 - ⚡ Fun fact **- I debug at 3 AM and still survive on coffee
-- ☕ - Dark mode is my natural habitat 🌙**
-
+☕ - Dark mode is my natural habitat 🌙**
+<hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahim-hossain-munna-308014384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahim-hossain-munna-308014384" height="30" width="40" /></a>

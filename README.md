@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Javascript (ES6+),React.js**
   <hr/>
 - 👨‍💻 All of my projects are available at [GitHub Profile --> https://github.com/fahimhossainmunna]
-  (GitHub Profile --> https://github.com/fahimhossainmunna)
 <hr/>
 - 📝 I regularly write articles on [Frontend Development, React, Tailwind CSS and Problem Solving]
 (Frontend Development, React, Tailwind CSS and Problem Solving)

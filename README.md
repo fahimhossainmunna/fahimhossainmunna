@@ -22,7 +22,8 @@
 <hr/>
 <h6>- 📄 Know about my experiences [https://www.canva.com/design/DAGyqKCTnIo/QgFqqpLrZAILigOKvSguww/edit?utm_content=DAGyqKCTnIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGyqKCTnIo/QgFqqpLrZAILigOKvSguww/edit?utm_content=DAGyqKCTnIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)</h6>
 <hr/>
-- ⚡ Fun fact **- I debug at 3 AM and still survive on coffee
+- ⚡ Fun fact **
+- I debug at 3 AM and still survive on coffee
 
 ☕ - Dark mode is my natural habitat 🌙**
 <hr/>

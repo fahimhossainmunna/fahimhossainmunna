@@ -7,17 +7,22 @@
 
 - 🌱 I’m currently learning **Javascript (ES6+),React.js**
 
-- 👨‍💻 All of my projects are available at [GitHub Profile --> https://github.com/fahimhossainmunna](GitHub Profile --> https://github.com/fahimhossainmunna)
+- 👨‍💻 All of my projects are available at [GitHub Profile --> https://github.com/fahimhossainmunna]
+- (GitHub Profile --> https://github.com/fahimhossainmunna)
 
-- 📝 I regularly write articles on [Frontend Development, React, Tailwind CSS and Problem Solving](Frontend Development, React, Tailwind CSS and Problem Solving)
+- 📝 I regularly write articles on [Frontend Development, React, Tailwind CSS and Problem Solving]
+- (Frontend Development, React, Tailwind CSS and Problem Solving)
 
 - 💬 Ask me about **HTML, CSS , Tailwind CSS , React.js Components , Responsive Web Design**
 
-- 📫 How to reach me **✉️ Email: hossainfahim306@gmail.com 🔗 LinkedIn: [ https://www.linkedin.com/in/fahim-hossain-munna-308014384/ ] 🌐 Portfolio:**
+- 📫 How to reach me **✉️ Email: hossainfahim306@gmail.com
+- 🔗 LinkedIn: [ https://www.linkedin.com/in/fahim-hossain-munna-308014384/ ]
+- 🌐 Portfolio:**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGyqKCTnIo/QgFqqpLrZAILigOKvSguww/edit?utm_content=DAGyqKCTnIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGyqKCTnIo/QgFqqpLrZAILigOKvSguww/edit?utm_content=DAGyqKCTnIo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **- I debug at 3 AM and still survive on coffee ☕ - Dark mode is my natural habitat 🌙**
+- ⚡ Fun fact **- I debug at 3 AM and still survive on coffee
+- ☕ - Dark mode is my natural habitat 🌙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

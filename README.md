@@ -15,7 +15,7 @@
 <hr/>
 - 💬 Ask me about **HTML, CSS , Tailwind CSS , React.js Components , Responsive Web Design**
 <hr/>
-- 📫 How to reach me **✉️ Email: hossainfahim306@gmail.com
+- 📫 How to reach me --> ✉️ Email: hossainfahim306@gmail.com
 
 🔗 LinkedIn: [ https://www.linkedin.com/in/fahim-hossain-munna-308014384/ ]
 

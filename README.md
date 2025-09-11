@@ -6,12 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimhossainmunna" alt="fahimhossainmunna" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript (ES6+),React.js**
-
+  <hr/>
 - 👨‍💻 All of my projects are available at [GitHub Profile --> https://github.com/fahimhossainmunna]
-- (GitHub Profile --> https://github.com/fahimhossainmunna)
+  (GitHub Profile --> https://github.com/fahimhossainmunna)
 
 - 📝 I regularly write articles on [Frontend Development, React, Tailwind CSS and Problem Solving]
-- (Frontend Development, React, Tailwind CSS and Problem Solving)
+(Frontend Development, React, Tailwind CSS and Problem Solving)
 <br/>
 - 💬 Ask me about **HTML, CSS , Tailwind CSS , React.js Components , Responsive Web Design**
 

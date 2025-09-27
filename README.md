@@ -92,42 +92,61 @@
 - ⏳ Build a personal blog or tech YouTube channel
 
 ---
-
-### 📜 Certifications
-
-- 🏆 Complete Web Development Course — _Programming Hero_
-- 🏆 Responsive Web Design — _freeCodeCamp_
-- 🏆 JavaScript Essentials — _Sololearn_
-- 🎓 More to be added soon...
-
----
-
-### 🌍 Contributions
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimhossainmunna&theme=dracula&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimhossainmunna&show_icons=true&theme=dracula" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+
+<img src="link_to_lottie_converted_svg_or_gif" alt="Animated GitHub Graphic" />
+
+
+![My Game Animation](path/to/mygame.gif)
+
+[![Watch game demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Update snake animation"
+          git push
+
+
 ---
 
-### 🛤️ Timeline / Journey
+### 🎮 Animated Fun Section
 
-| Year | Milestone |
-|------|-----------|
-| 2022 | Started learning HTML, CSS |
-| 2023 | Built first portfolio, learned JS & React |
-| 2024 | Completed several freelance projects |
-| 2025 | 🚀 Becoming a job-ready frontend developer |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
----
-
-### 🎮 Fun Game for Developers
-
-> 🕹️ **Try this Terminal-style Game:**  
-> 👉 [**GitHub Typing Game**](https://git-game.vercel.app)
-
-- Type real terminal commands like `cd`, `ls`, `mkdir`, `touch`
-- Learn and play at the same time!
+<p align="center">
+  ![Game Preview](assets/mygame.gif)
+</p>
 
 ---
 

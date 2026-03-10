@@ -1,86 +1,100 @@
 <!-- ═══════════════════════════════════════ -->
-<!--   CYBERPUNK THEME — GREEN ON BLACK     -->
+<!--   LUXURY DARK — GOLD + ELEGANT        -->
 <!-- ═══════════════════════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0&height=180&text=FAHIM.EXE&fontSize=62&fontColor=00ff41&fontAlignY=55&desc=//+FRONTEND+DEVELOPER+%7C+SYSTEM+ONLINE&descSize=14&descColor=00cc33&descAlignY=78&stroke=00ff41&strokeWidth=1"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0a0a0a,1a1408,2a1f00&height=220&text=Fahim%20Hossain%20Munna&fontSize=50&fontColor=D4AF37&fontAlignY=45&desc=Frontend%20Developer%20%E2%80%94%20Crafting%20Digital%20Experiences&descSize=15&descColor=a08830&descAlignY=65&animation=fadeIn&stroke=D4AF37&strokeWidth=1"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2000&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%3E+Initializing+Fahim+Hossain+Munna...;%3E+Loading+React+%2B+Redux+%2B+Tailwind+CSS...;%3E+Grocify+e-commerce+deployed+%5BOK%5D;%3E+Status%3A+Open+to+Work+%5BACTIVE%5D;%3E+Location%3A+Dhaka%2C+Bangladesh+%5BONLINE%5D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=20&duration=3500&pause=1000&color=D4AF37&background=00000000&center=true&vCenter=true&width=680&lines=Frontend+Developer+%7C+React+Specialist;Building+beautiful%2C+performant+UIs;Grocify+E-Commerce+—+Shipped+%E2%9C%93;Open+to+meaningful+opportunities;Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahimhossainmunna&label=SYS.VIEWS&color=00ff41&style=for-the-badge&labelColor=000000"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/fahimhossainmunna?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=000000"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge&labelColor=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=fahimhossainmunna&label=Profile+Views&color=D4AF37&style=flat-square&labelColor=0a0a0a"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/fahimhossainmunna?label=Followers&style=flat-square&color=D4AF37&labelColor=0a0a0a"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-D4AF37?style=flat-square&labelColor=0a0a0a&logo=checkmarx&logoColor=D4AF37"/>
+</div>
+
+<br/>
+
+---
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius:8px"/>
+
+## ✦ About
+
+I'm a **Frontend Developer** based in Dhaka, Bangladesh, passionate about building elegant, user-centric web experiences.
+
+Currently deepening expertise in **React**, **Redux Toolkit**, and **Tailwind CSS** — recently shipped [**Grocify**](https://github.com/fahimhossainmunna), a full-featured e-commerce frontend.
+
+**Currently learning** — Next.js · TypeScript · Node.js
+
+**Ask me about** — React Components · Tailwind CSS · Responsive Design · Redux
+
+**Reach me** — [hossainfahim306@gmail.com](mailto:hossainfahim306@gmail.com)
+
+<br clear="right"/>
+
+---
+
+## ✦ GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahimhossainmunna&theme=gruvbox&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
 </div>
 
 ---
 
-## `> whoami`
-
-```bash
-$ cat fahim.json
-{
-  "name"     : "Fahim Hossain Munna",
-  "role"     : "Frontend Developer",
-  "location" : "Dhaka, Bangladesh 🇧🇩",
-  "stack"    : ["React", "Redux Toolkit", "Tailwind CSS", "JavaScript ES6+"],
-  "learning" : ["Next.js", "TypeScript", "Node.js"],
-  "ship"     : "Grocify — Full E-Commerce Frontend 🛒",
-  "status"   : "OPEN_TO_WORK",
-  "fun_fact" : "I debug at 3AM and survive on coffee ☕"
-}
-```
-
----
-
-## `> tech --list`
+## ✦ Technology
 
 <div align="center">
-<table>
+<table border="0">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br/><code>HTML5</code></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br/><code>CSS3</code></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br/><code>JS</code></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br/><code>React</code></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br/><code>Redux</code></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/><code>Tailwind</code></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="40"/><br/><code>Vite</code></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br/><code>Git</code></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40"/><br/><code>Figma</code></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="42"/><br/><sub>HTML5</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="42"/><br/><sub>CSS3</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="42"/><br/><sub>JavaScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="42"/><br/><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="42"/><br/><sub>Redux</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42"/><br/><sub>Tailwind</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="42"/><br/><sub>Vite</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="42"/><br/><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42"/><br/><sub>Figma</sub></td>
 </tr>
 </table>
 </div>
 
 ---
 
-## `> github --stats`
+## ✦ Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fahimhossainmunna&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ccffcc&count_private=true"/>
+  <img height="182" src="https://github-readme-stats.vercel.app/api?username=fahimhossainmunna&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&icon_color=D4AF37&text_color=c8b882&count_private=true&include_all_commits=true"/>
   &nbsp;
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=fahimhossainmunna&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=ccffcc&dates=558855"/>
+  <img height="182" src="https://github-readme-streak-stats.herokuapp.com?user=fahimhossainmunna&theme=gruvbox-duo&hide_border=true&background=0a0a0a&ring=D4AF37&fire=c8a020&currStreakLabel=D4AF37&sideLabels=c8b882&dates=7a6840"/>
 </div>
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossainmunna&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ccffcc&langs_count=8"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossainmunna&layout=donut-vertical&theme=gruvbox&hide_border=true&bg_color=0a0a0a&title_color=D4AF37&text_color=c8b882&langs_count=8"/>
   &nbsp;
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahimhossainmunna&theme=chartreuse_dark"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahimhossainmunna&theme=gruvbox"/>
 </div>
 
-## `> contributions --graph`
+---
+
+## ✦ Contributions
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahimhossainmunna&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4122&hide_border=true&custom_title=%3E%20CONTRIBUTION_MATRIX.LOG"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fahimhossainmunna&bg_color=0a0a0a&color=D4AF37&line=D4AF37&point=ffffff&area=true&area_color=D4AF3722&hide_border=true&custom_title=Contribution%20History"/>
 </div>
 
-## `> snake --run`
+---
+
+## ✦ Snake
 
 <div align="center">
   <picture>
@@ -89,34 +103,50 @@ $ cat fahim.json
   </picture>
 </div>
 
-## `> goals --2026`
+---
 
-```
-[██████████] React + Redux + Tailwind     MASTERED
-[██████████] Grocify E-Commerce           SHIPPED ✓
-[████████░░] Next.js + TypeScript         IN PROGRESS
-[████░░░░░░] Open Source Contributions    PLANNED
-[███░░░░░░░] Personal Portfolio           PLANNED
-[██░░░░░░░░] Tech Blog / YouTube          PLANNED
-```
-
-## `> connect --social`
+## ✦ 2026 Roadmap
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/fahim-hossain-munna-308014384)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000)](https://fb.com/fahim.hossainmunna.1)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/fahim.hossain_07)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:hossainfahim306@gmail.com)
-[![Resume](https://img.shields.io/badge/RESUME-00ff41?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=000000)](https://www.canva.com/design/DAGyqKCTnIo/QgFqqpLrZAILigOKvSguww/edit)
-[![🕹️ Arcade](https://img.shields.io/badge/ARCADE-00ff41?style=for-the-badge&logo=gamepad&logoColor=black&labelColor=000000)](https://fahimhossainmunna.github.io/arcade.html)
+| Status | Milestone |
+|:---:|---|
+| ✅ | Mastered HTML · CSS · JavaScript |
+| ✅ | React + Redux Toolkit + Tailwind CSS |
+| ✅ | Shipped **Grocify** — Full E-Commerce Frontend |
+| 🔄 | Learning Next.js & TypeScript |
+| ⏳ | Open Source Contributions |
+| ⏳ | Personal Portfolio Website |
+| ⏳ | Tech Blog or YouTube Channel |
 
 </div>
 
+---
+
+## ✦ Connect
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&text=%3E+EOF+%7C+session.terminate()&fontSize=14&fontColor=00ff41&fontAlignY=55"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fahim-hossain-munna-308014384)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/fahim.hossainmunna.1)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/fahim.hossain_07)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hossainfahim306@gmail.com)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-D4AF37?style=flat-square&logo=googledrive&logoColor=black)](https://www.canva.com/design/DAGyqKCTnIo/QgFqqpLrZAILigOKvSguww/edit)
+&nbsp;
+[![Arcade](https://img.shields.io/badge/🕹️%20Arcade-D4AF37?style=flat-square&logoColor=black)](https://fahimhossainmunna.github.io/arcade.html)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a,1a1408,0a0a0a&height=100&section=footer&text=Thank%20you%20for%20visiting&fontSize=16&fontColor=D4AF37&fontAlignY=65&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <sub><code>// Thanks for visiting · ⭐ Star my repos · Built with ❤️ in Bangladesh 🇧🇩</code></sub>
+  <sub>✦ &nbsp; Crafted with care in Bangladesh 🇧🇩 &nbsp; · &nbsp; ⭐ Star my repos if they helped you &nbsp; ✦</sub>
 </div>

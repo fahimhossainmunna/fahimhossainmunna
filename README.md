@@ -83,12 +83,33 @@ const fahim = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=fahimhossainmunna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ffffff&count_private=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fahimhossainmunna&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=ffffff"/>
+
+  <!-- Row 1: Stats + Streak side by side -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fahimhossainmunna&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6AC1&icon_color=FF6AC1&text_color=ffffff&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=fahimhossainmunna&theme=radical&hide_border=true&background=0D1117&ring=FF6AC1&fire=FF9A3C&currStreakLabel=FF6AC1&sideLabels=ffffff&dates=888888"/>
+
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossainmunna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ffffff"/>
+
+  <!-- Row 2: Languages — donut style -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossainmunna&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6AC1&text_color=ffffff&langs_count=8"/>
+  &nbsp;
+  <!-- Row 2: Profile details card -->
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimhossainmunna&theme=radical"/>
+
+</div>
+
+<div align="center">
+
+  <!-- Row 3: Repos per language + Commits per day -->
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimhossainmunna&theme=radical"/>
+  &nbsp;
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fahimhossainmunna&theme=radical"/>
+  &nbsp;
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahimhossainmunna&theme=radical"/>
+
 </div>
 
 ---
